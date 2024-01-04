@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**iSpahbod/ispahbod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/dori-dev">
+        <picture align="center">
+            <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ispahbod&hide=prs&show_icons=true&theme=react&hide_border=true&bg_color=ffffff00">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff00">
+            <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=react&hide_border=true">
+        </picture>
+    </a>
+</p>
