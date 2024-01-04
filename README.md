@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## GitHub Stats
-
 <p align="left">
     <a href="https://github.com/dori-dev">
         <picture align="center">
